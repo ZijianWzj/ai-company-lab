@@ -1,0 +1,11 @@
+name: Bug Report
+description: Report bug
+title: "[Bug] "
+labels:
+  - type:bug
+
+body:
+  - type:textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
