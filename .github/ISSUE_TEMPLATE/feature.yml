@@ -1,0 +1,17 @@
+name: Feature Request
+description: New feature
+title: "[Feature] "
+labels:
+  - type:feature
+
+body:
+  - type:textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the feature
+
+  - type:textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
